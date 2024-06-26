@@ -32,7 +32,7 @@ const config: DocsThemeConfig = {
     },
     docsRepositoryBase: 'https://github.com/reclaimprotocol',
     footer: {
-      text: 'Reclaim Protocol © 2021',
+      text: 'Reclaim Protocol © 2024',
     },
   }
   
